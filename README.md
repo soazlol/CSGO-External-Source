@@ -15,10 +15,10 @@ Memory.h
 
 offsets.h - Make sure they are updated
 
-if you have any issues Dm Me
-
 But If You Simply Just Copy and paste them with the same exact names Example (Memory.h) or (defines.h) 
 
 then it will 100% work
+
+if you have any issues Dm Me
 
 Discord : Soaz#6462
