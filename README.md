@@ -8,8 +8,11 @@ So This Wont Work If You Just Download it
 So I Suggest Copying and Pasting the following
 
 CSGOBUPROJECT.cpp
+
 Defines.h
+
 Memory.h
+
 offsets.h - Make sure they are updated
 
 if you have any issues Dm Me
